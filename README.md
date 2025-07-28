@@ -23,5 +23,3 @@ Dataset used: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.
 
 > This dataset is made available by Olist on Kaggle and is licensed for public use. Full credit to the original data provider.
 
-## 🗂️ Project Structure
-
